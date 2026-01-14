@@ -26,7 +26,7 @@ The work here combines **technical thinking**, **policy awareness**, and **socia
 
 The repository is organized like a **journey**, using *phases* and *quests* to make learning and exploration engaging.
 
-'''
+```
 SDG-Aligned-Thinking/
 │
 ├── Phase-1_Foundations/
@@ -55,7 +55,7 @@ SDG-Aligned-Thinking/
 │ └── Governance-and-Civic-Tech.md
 │
 └── Reflections-and-Learnings.md
-'''
+```
 
 Each **phase** builds knowledge.  
 Each **quest** applies that knowledge to real-world problems.
